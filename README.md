@@ -7,12 +7,6 @@
    <a href="https://instagram.com/wondanotlegal" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/wondajs" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-   
-   
-   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/389168690899320842?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/323301869319618560)
-
-
 <h3>Languages and Tools i use:</h3>
 <p style="float:right">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -24,4 +18,6 @@
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wondajs&theme=dark&count_private=true&show_icons=true&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api?username=wondajs&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+</p>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323301869319618560?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/323301869319618560)
 </p>
