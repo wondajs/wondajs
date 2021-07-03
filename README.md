@@ -1,6 +1,9 @@
 <h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
    <p align="left">Hi, I’m <a href="https://discord.com/users/845740258666610729"> Wonda!</a>, a young developer from Turkey.</p>
 <img src="https://komarev.com/ghpvc/?username=Wondaa&color=dc143c"/>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323301869319618560?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/323301869319618560)
+
+
 <h3>My Personal Accounts:</h3>
 <p align="left">
    <a href="https://discord.com/users/845740258666610729" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -18,6 +21,4 @@
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wondajs&theme=dark&count_private=true&show_icons=true&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api?username=wondajs&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-</p>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323301869319618560?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/323301869319618560)
 </p>
