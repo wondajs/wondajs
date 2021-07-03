@@ -8,7 +8,8 @@
    <a href="https://github.com/wondajs" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/845740258666610729?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/845740258666610729)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/389168690899320842?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/389168690899320842)
+
 
 <h3>Languages and Tools i use:</h3>
 <p style="float:right">
