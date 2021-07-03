@@ -7,6 +7,9 @@
    <a href="https://instagram.com/wondanotlegal" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/wondajs" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+   
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323301869319618560?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/323301869319618560)
+
 <h3>Languages and Tools i use:</h3>
 <p style="float:right">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
