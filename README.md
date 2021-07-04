@@ -19,7 +19,8 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wondajs&theme=dark&count_private=true&show_icons=true&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api?username=wondajs&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 
- [![Discord Presence](![image](https://user-images.githubusercontent.com/85441653/124386813-cfafef00-dce4-11eb-9f39-2e625e25e861.png))](https://discord.com/users/845740258666610729)
+ [![Discord Presence](https://cdn.discordapp.com/attachments/845963909721620533/861236886987210782/unknown.png)](https://discord.com/users/845740258666610729)
  
+
 
 </p>
