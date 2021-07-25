@@ -1,10 +1,10 @@
 <h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-   <p align="left">Hi, I’m <a href="https://discord.com/users/845740258666610729"> Wonda!</a>, a young developer from Turkey.</p>
+   <p align="left">Hi, I’m <a href="https://discord.com/users/389168690899320842"> Wonda!</a>, a young developer from Turkey.</p>
 <img src="https://komarev.com/ghpvc/?username=Wondaa&color=dc143c"/>
 <h3>My Personal Accounts:</h3>
 <p align="left">
-   <a href="https://discord.com/users/845740258666610729" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://instagram.com/wondanotlegal" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://discord.com/users/389168690899320842" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://instagram.com/onursevindmxx" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/wondajs" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <h3>Languages and Tools i use:</h3>
@@ -19,7 +19,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wondajs&theme=dark&count_private=true&show_icons=true&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api?username=wondajs&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 
- [![Discord Presence](https://cdn.discordapp.com/attachments/845963909721620533/861236886987210782/unknown.png)](https://discord.com/users/845740258666610729)
+ [![Discord Presence](https://cdn.discordapp.com/attachments/399159776384122882/868833704145977404/unknown.png)](https://discord.com/users/389168690899320842)
  
 
 
